@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">atividade_2</string>
+
+    <string-array name="Cursos">
+        <item>ONE</item>
+        <item>ONE</item>
+        <item>ONE</item>
+    </string-array>
+
+</resources>
